@@ -29,6 +29,6 @@ I'm interested in web development, games.
    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=Quanitte&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     <br>
-   <img src="https://metrics.lecoq.io/baggerfast" />
+   <img src="https://metrics.lecoq.io/Quanitte" />
   </p>
 </details>
