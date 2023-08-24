@@ -27,7 +27,7 @@ I'm interested in web development, games.
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quanitte&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=Quanitte-&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Quanitte&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     <br>
    <img src="https://metrics.lecoq.io/Quanitte" />
   </p>
