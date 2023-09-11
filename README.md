@@ -16,7 +16,7 @@ I'm interested in web development, games.
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=py,css,html&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,powershell,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,git&perline=7" />
     <br>
   </p>
 </details>
