@@ -14,7 +14,7 @@ I'm interested in web development, games.
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=py,css,html,php&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,css,html,&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,git&perline=7" />
     <br>
